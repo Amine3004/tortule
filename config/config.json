@@ -1,0 +1,17 @@
+{
+  "CONTRACT_ADDRESS": "0xcD406423eaF1329b1A602C81B4DAFfE8A291cF8a",
+  "SCAN_LINK": "https://etherscan.io/token/0xcD406423eaF1329b1A602C81B4DAFfE8A291cF8a",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Real Meta Tortoises",
+  "SYMBOL": "RMT",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 156243,
+  "MARKETPLACE": "Opeansea",
+  "SHOW_BACKGROUND": true
+}
